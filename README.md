@@ -1,4 +1,4 @@
-# Questions
+# Project Questions--Part of the CS50 class requirements
 
 ## What is pneumonoultramicroscopicsilicovolcanoconiosis?
 
